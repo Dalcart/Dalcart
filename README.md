@@ -1,5 +1,5 @@
 # Hello there, I'm Dalcart !
-                                            Student who develops some stuff 🤚
+                                                   Student who develops some stuff 🤚
  
 
 <br/>
@@ -21,7 +21,7 @@
 <br/>
 <h4><b><samp>Tools and Platform</samp></b></h4>
 
-[![VS code](https://img.shields.io/badge/-VS_code-a39693?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)]
-[![github](https://img.shields.io/badge/-Github-a39693?style=flat-square&logo=github&logoColor=white)]
-[![ubuntu](https://img.shields.io/badge/-Ubuntu-a39693?style=flat-square&logo=ubuntu&logoColor=white)]
-[![discord](https://img.shields.io/badge/-Discord-a39693?style=flat-square&logo=Discord&logoColor=white)]
+[!(https://img.shields.io/badge/-VS_code-a39693?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)]
+[!(https://img.shields.io/badge/-Github-a39693?style=flat-square&logo=github&logoColor=white)]
+[!(https://img.shields.io/badge/-Ubuntu-a39693?style=flat-square&logo=ubuntu&logoColor=white)]
+[!(https://img.shields.io/badge/-Discord-a39693?style=flat-square&logo=Discord&logoColor=white)]
