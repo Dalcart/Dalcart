@@ -1,5 +1,5 @@
 # Hello there, I'm Dalcart !
-                                                    Student who develops some stuff 🤚
+                                                   Student who develops some stuff 🤚
  
 
 <br/>
