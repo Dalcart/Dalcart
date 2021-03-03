@@ -10,13 +10,13 @@
 <h4><b><samp>Skills and Languages</samp></b></h4>
 
 [![Rapspberry pi](https://img.shields.io/badge/-Rapspberry_PI-a39693?style=flat-square&logo=Raspberry%20Pi&logoColor=white)](https://github.com/badges/shields)
-[![Python](https://img.shields.io/badge/-Python-a39693?style=flat-square&logo=python&logoColor=white)]
-[![java](https://img.shields.io/badge/-Java-a39693?style=flat-square&logo=java&logoColor=white)]
-[![Bash](https://img.shields.io/badge/-Bash-a39693?style=flat-square&logo=GNU%20Bash&logoColor=white)]
-[![ps1](https://img.shields.io/badge/-Powershell-a39693?style=flat-square&logo=powershell&logoColor=white)]
-[![nodejs](https://img.shields.io/badge/-NodeJS-a39693?style=flat-square&logo=node.js&logoColor=white)]
-[![HTML](https://img.shields.io/badge/-HTML-a39693?style=flat-square&logo=html5&logoColor=white)]
-[![CSS](https://img.shields.io/badge/-CSS-a39693?style=flat-square&logo=css3&logoColor=white)]
+[![Python](https://img.shields.io/badge/-Python-a39693?style=flat-square&logo=python&logoColor=white)](https://github.com/badges/shields)
+[![java](https://img.shields.io/badge/-Java-a39693?style=flat-square&logo=java&logoColor=white)](https://github.com/badges/shields)
+[![Bash](https://img.shields.io/badge/-Bash-a39693?style=flat-square&logo=GNU%20Bash&logoColor=white)](https://github.com/badges/shields)
+[![ps1](https://img.shields.io/badge/-Powershell-a39693?style=flat-square&logo=powershell&logoColor=white)](https://github.com/badges/shields)
+[![nodejs](https://img.shields.io/badge/-NodeJS-a39693?style=flat-square&logo=node.js&logoColor=white)](https://github.com/badges/shields)
+[![HTML](https://img.shields.io/badge/-HTML-a39693?style=flat-square&logo=html5&logoColor=white)](https://github.com/badges/shields)
+[![CSS](https://img.shields.io/badge/-CSS-a39693?style=flat-square&logo=css3&logoColor=white)](https://github.com/badges/shields)
 
 <br/>
 <h4><b><samp>Tools and Platform</samp></b></h4>
