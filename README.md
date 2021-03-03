@@ -25,3 +25,5 @@
 [!(https://img.shields.io/badge/-Github-a39693?style=flat-square&logo=github&logoColor=white)]
 [!(https://img.shields.io/badge/-Ubuntu-a39693?style=flat-square&logo=ubuntu&logoColor=white)]
 [!(https://img.shields.io/badge/-Discord-a39693?style=flat-square&logo=Discord&logoColor=white)]
+
+[label](http://example.com)
